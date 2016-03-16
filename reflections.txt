@@ -1,0 +1,8 @@
+- How does your gem take advantage of Ruby’s metaprogramming capabilities?
+I create all colors using metaprogramming capability so it's concise
+- How long did you spend working on this project?
+About 1 hour
+- What was the most rewarding challenge you conquered?
+learn how to use %Q to create a String for class_eval
+- Where do you still have room to grow?
+More examples about how to do metaprogramming
